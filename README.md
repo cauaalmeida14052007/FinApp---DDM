@@ -1,12 +1,32 @@
 # FinApp---DDM
 Aplicativo para curiosos e interessados na área de finanças ,educação financeira
 
+## Público Alvo 👥
+Projeto voltado para alunos e simpatizantes com o mercado financeiro que buscam aprender mais a cada dia sobre investimentos, ações ,criptos e educação financeira, para criar um base sólida e alcançar a liberdade financeira.
+
+##  Objetivo do Projeto📌
+Poder contribuir de forma acertiva no aprendizado dos usuários a como gerir seu dinheiro e criar um base financeira fore
+
+# Matriz de Requisítos
+[ Matriz de Requisitos link](./Matriz%20de%20Requisitos%20-%20FinApp.ods)
 
 ## Diagrama de Classes  👦
 ![DIAGRAMA DE CLASSES](img/Classes.png)
 
+## Diagrama de Objetos
+![DIAGRAMA DE Objetos](img/Diagrama%20objetos.png)
+## Diagrama de Componentes
+   ![DIAGRAMA DE Objetos](img/Diagrama%20de%20Componentes.png)
+## Diagrama de Caso de Uso
+ ![DIAGRAMA DE Objetos](img/Diagramas%20de%20caso%20de%20uso.png)
+## Diagrama de Sequência
+![DIAGRAMA DE Objetos](img/Diagrama%20sequencia.png)
+## Diagrama de Atividade
+  ![DIAGRAMA DE Objetos](img/Diagrama%20de%20atividades.png)
 ## Modelo Entidade-Relacionamento(MER)
 ![MER](img/Entidade.jpeg)
+
+
 
 ## Técnologias Ultilizadas
 ### Front-end (Interface do Usuário)
@@ -31,7 +51,7 @@ Aplicativo para curiosos e interessados na área de finanças ,educação financ
 Para permitir funcionamento offline e caching.
 
 
-# 🚀 Plano Estratégico de Backup e Recuperação do FinApp 🔥
+# 🚀 Estratégia de Backup e Recuperação do FinApp 🔥
 ## 📌 Objetivo:
 Proteger os dados financeiros, simulações de investimentos, gerenciamento de cartões, perfil de usuários, overview diário do mercado financeiro, saldo, extrato, transações, comunidade e métodos de investimento, garantindo mínima perda de dados (RPO) e rápida recuperação (RTO).
 
@@ -103,3 +123,57 @@ Proteger os dados financeiros, simulações de investimentos, gerenciamento de c
 ### 📜 Auditoria → Logs + Compliance (GDPR, ISO 27001)
 
 # 🎯 Conclusão: O FinApp está blindado contra falhas, garantindo continuidade e segurança! 🚀💰
+<br><br><br><br><br>
+
+ # 🎯 Plano de Projeto – FinApp
+ 📌 O que é? Um aplicativo inovador para educação financeira e gestão do dinheiro. Ele ajudará os usuários a acompanhar seus gastos, aprender sobre investimentos e interagir com uma comunidade financeira.
+<br><br>
+ # 🔥 Missão do Projeto
+Criar um hub financeiro interativo, onde qualquer pessoa possa controlar suas finanças, simular investimentos e se atualizar sobre o mercado, tudo em um só lugar.
+<br><br><br><br>
+# 🏆 Objetivos Principais
+### ✔ Gestão de dinheiro: Controle de saldo, extratos e cartões.
+### ✔ Simulador de investimentos: Projeção de ganhos futuros.
+### ✔ Notícias do mercado: Tendências de ações e criptos.
+### ✔ Comunidade interativa: Networking e troca de experiências.
+### ✔ Configurações personalizadas: Gerenciamento de perfil e preferências.
+<br><br>
+# 🛠 Como será construído?
+### ✅ Escolher tecnologias mais eficientes (HTML, CSS, React, Node.js, PWA).
+### ✅ Criar wireframes da interface.
+<br>
+ 
+ # 🔹 FASE 2 – Construção da Base
+ ### 🔹 Frontend: React + PWA para um app fluido e responsivo.
+### 🔹 Backend: Node.js + Express para alto desempenho.
+### 🔹 Banco de Dados: PostgreSQL para armazenamento seguro.
+### 🔹 APIs: Alpha Vantage / CoinGecko para cotações do mercado.
+### 🔹 Segurança: Firebase/Auth0 para autenticação robusta.
+
+# 🔹 FASE 3 – Testes e Ajustes
+### 🎯 Testes de usabilidade e segurança.
+### 🎯 Feedback com beta testers.
+### 🎯 Refinamento da interface e experiência do usuário.
+
+# 🔹 FASE 4 – Lançamento Beta
+### 🚀 Publicação para um grupo selecionado.
+### 🚀 Correção de bugs e melhorias finais.
+
+# 🔹 FASE 5 – Lançamento Oficial & Crescimento
+### 📲 Disponível na App Store e Google Play (via PWA).
+### 📲 Estratégia de marketing digital para atração de usuários.
+### 📲 Atualizações periódicas com base no feedback da comunidade.
+
+# ⚠ Riscos e Soluções
+### 🔸 Atraso no desenvolvimento? → Uso de metodologias ágeis (Scrum).
+### 🔸 Baixa adoção inicial? → Interface intuitiva + onboarding eficiente.
+### 🔸 APIs instáveis? → Alternativas e redundâncias para garantir disponibilidade.
+### 🔸 Questões de segurança? → Criptografia e testes constantes.
+# 🎯 Metodologia de Trabalho
+### 📌 Sprints semanais (Scrum) para manter o ritmo.
+### 📌 Gestão de tarefas com Trello/Jira.
+### 📌 Reuniões semanais para ajustes estratégicos.
+### 📌 Versionamento no GitHub para controle de código.
+
+## 🚀 Resumo Final
+### O FinApp será um aplicativo que vai além do gerenciamento financeiro tradicional. Ele trará um ecossistema completo para que os usuários aprendam, gerenciem e se conectem no mundo das finanças. Com um planejamento sólido e execução ágil, o objetivo é criar uma experiência inovadora e acessível.
