@@ -280,4 +280,4 @@ Criar um hub financeiro interativo, onde qualquer pessoa possa controlar suas fi
 
 ## 🚀 Resumo Final
 
-### O FinApp será um aplicativo que vai além do gerenciamento financeiro tradicional. Ele trará um ecossistema completo para que os usuários aprendam, gerenciem e se conectem no mundo das finanças. Com um planejamento sólido e execução ágil, o objetivo é criar uma experiência inovadora e acessível.
+### O TutorTime - Invest será um aplicativo que vai além do gerenciamento financeiro tradicional. Ele trará um ecossistema completo para que os usuários aprendam, gerenciem e se conectem no mundo das finanças. Com um planejamento sólido e execução ágil, o objetivo é criar uma experiência inovadora e acessível.
