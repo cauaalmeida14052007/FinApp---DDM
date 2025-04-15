@@ -86,6 +86,8 @@ Poder contribuir de forma acertiva no aprendizado dos usuários a como gerir seu
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) Para armazenar as coleções e itens.
 
 ![SEQUELIZE](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue) → Para facilitar a modelagem dos dados.
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+
 
 # PWA
 
