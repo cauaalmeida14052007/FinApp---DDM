@@ -193,7 +193,7 @@ Proteger os dados financeiros, simulações de investimentos, gerenciamento de c
 
 ### 📜 Auditoria → Logs + Compliance (GDPR, ISO 27001)
 
-# 🎯 Conclusão: O FinApp está blindado contra falhas, garantindo continuidade e segurança! 🚀💰
+# 🎯 Conclusão: O TutorTime - Invest está blindado contra falhas, garantindo continuidade e segurança! 🚀💰
 
 <br><br><br><br><br>
 
