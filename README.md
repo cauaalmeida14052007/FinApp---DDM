@@ -93,7 +93,7 @@ Poder contribuir de forma acertiva no aprendizado dos usuários a como gerir seu
 
 Para permitir funcionamento offline e caching.
 
-# 🚀 Estratégia de Backup e Recuperação do FinApp 🔥
+# 🚀 Estratégia de Backup e Recuperação do TutorTime - Invest 🔥
 
 ## 📌 Objetivo:
 
@@ -197,7 +197,7 @@ Proteger os dados financeiros, simulações de investimentos, gerenciamento de c
 
 <br><br><br><br><br>
 
-# 🎯 Plano de Projeto – FinApp
+# 🎯 Plano de Projeto – TutorTime - Invest
 
 📌 O que é? Um aplicativo inovador para educação financeira e gestão do dinheiro. Ele ajudará os usuários a acompanhar seus gastos, aprender sobre investimentos e interagir com uma comunidade financeira.
 <br><br>
